@@ -9,14 +9,14 @@
    [Clone Github link](https://github.com/soumya530G/underwaterexploration.git) 
 
 # Basic Working of the Project  
-  ![image_text](Media\final.png "final model")
+  ![image_text]([Media\final.png](https://github.com/soumya530G/underwaterexploration/blob/master/obj_code/Media/final.png) "final model")
   ## Lead screw mechanism
-  ![image_text](Media\lead_screw2.jpg "lead screw mechanism")
+  ![image_text]([Media\lead_screw2.jpg](https://github.com/soumya530G/underwaterexploration/blob/master/obj_code/Media/lead_screw2.jpg) "lead screw mechanism")
 
 A lead screw mechanism is a simple but effective way to translate rotational motion into linear motion. It is commonly used in a variety of applications, including CNC machines, 3D printers, and other types of machinery.
 At its most basic, a lead screw mechanism consists of a threaded rod, called the lead screw, and a nut that is threaded onto the lead screw. When the lead screw is rotated, the nut moves along the length of the screw. By attaching a load to the nut, the rotational motion of the lead screw can be used to move the load linearly.
 
-[See how it works](Media\leadscrew.mp4)
+[See how it works]([Media\leadscrew.mp4](https://github.com/soumya530G/underwaterexploration/blob/master/obj_code/Media/leadscrew.mp4))
   ## Atmospheric pressure in syringes
 
 Syringes are medical devices that are used to inject or withdraw fluids from the   body. They consist of a barrel and a plunger. When the plunger is pushed, the fluid in the barrel is forced out, and when the plunger is pulled, fluid is drawn into the barrel.
@@ -54,15 +54,15 @@ To use a syringe, the plunger is either pushed or pulled to push forward or with
    5. AutoCAD    
 
 # Circuit Diagram      
-  ![image_text](Media\circuit_proteus.png "circuit")  
+  ![image_text]([Media\circuit_proteus.png](https://github.com/soumya530G/underwaterexploration/blob/master/obj_code/Media/circuit_proteus.png) "circuit")  
 
 # Codes in action
   ## Arduino
   (For hardware control through micro controllers)
   ## MITAppInventor
-  (For UI) ![image_text](Media\ui.png "UI")
+  (For UI) ![image_text]([Media\ui.png](https://github.com/soumya530G/underwaterexploration/blob/master/obj_code/Media/ui.png) "UI")
   ## Object Detection
-  ![obj_detect](Media\obj.png)
+  ![obj_detect]([Media\obj.png](https://github.com/soumya530G/underwaterexploration/blob/master/obj_code/Media/obj.png))
 
 
 # Integration
@@ -71,7 +71,7 @@ This project demonstrates the working of an underwater exploration robot. It's b
 The robot works on the principle of center of gravity wherein, vessel's center of gravity can be changed by adding or removing water. We've used servo motors to actuate limit switches which would then change the motion and direction of DC motors, as we're using linear motions caused by DC motors to our advantage which would then move the discs attached to water containing syringes thereby adding or removing water from them and changing the center of gravity of the whole robot. The servo motors take in angles from arduino for which I've developed an app with an interactive UI which interacts with arduino through bluetooth module. For a safer use I've added various functions with fixed angles in it.
 
   ## Working video link:
-[Video](Media\VIDEO-2023-04-26-17-41-25.mp4)
+[Video](https://github.com/soumya530G/underwaterexploration/blob/master/obj_code/Media/VIDEO-2023-04-26-17-41-25.mp4)
 
 # Future Scope
   ## Things to improve upon
