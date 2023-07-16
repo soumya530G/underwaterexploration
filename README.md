@@ -9,6 +9,12 @@
    [Clone Github link](https://github.com/soumya530G/underwaterexploration.git) 
 
 # Basic Working of the Project  
+
+
+
+<img width="422" alt="final" src="https://github.com/soumya530G/underwaterexploration/assets/78527655/8e152a95-83b1-4131-8d10-9005ce780acc">
+
+
   ![image_text]([Media\final.png](https://github.com/soumya530G/underwaterexploration/blob/master/obj_code/Media/final.png) "final model")
   ## Lead screw mechanism
   ![image_text]([Media\lead_screw2.jpg](https://github.com/soumya530G/underwaterexploration/blob/master/obj_code/Media/lead_screw2.jpg) "lead screw mechanism")
